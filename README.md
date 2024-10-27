@@ -4,7 +4,7 @@ BODY: 18/20
 
 5;0+2+2+2+2;5;0
 
-do IS bylo vloženo hodnocení druhé části projektu. Kromě celkového počtu bodů má každý v IS rozepsán bodový zisk na 4 základní části ve formátu "B;a1+a2+a3+a4+a5;D;P".
+"B;a1+a2+a3+a4+a5;D;P"
 
 Celkově 20 bodů bylo rozděleno v poměru:
 (B)asic= 5b základní test správné funkcionality (zcela identický testovací případ jako zveřejněný test.zip),
