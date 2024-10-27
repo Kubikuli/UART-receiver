@@ -1,0 +1,10 @@
+v 4
+file "/mnt/c/Users/kubal/projects/template_rx/ghdl_test/" "test1/testbench.vhd" "8e4c11e70fc12961c8bcd65fb5616dc98318a6fe" "20240428123528.575":
+  entity testbench1 at 4( 110) + 0 on 15;
+  architecture tb of testbench1 at 17( 286) + 0 on 16;
+file "/mnt/c/Users/kubal/projects/template_rx/ghdl_test/" "work/uart_rx_fsm.vhd" "e00e7db0ece1f6d4e62905eca8989a4a68683750" "20240428123527.503":
+  entity uart_rx_fsm at 4( 124) + 0 on 11;
+  architecture behavioral of uart_rx_fsm at 28( 681) + 0 on 12;
+file "/mnt/c/Users/kubal/projects/template_rx/ghdl_test/" "work/uart_rx.vhd" "24a992e123e27a866e629e89e30ab91f3bc59efb" "20240428123527.580":
+  entity uart_rx at 4( 99) + 0 on 13;
+  architecture behavioral of uart_rx at 24( 546) + 0 on 14;
